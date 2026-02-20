@@ -3,7 +3,7 @@
 > **Disclaimer:** This project is for educational purposes only. It was developed as part of the BSc Computer Science BITS Pilani 2026 Study Project.
 
 ## Live Demo
-[🔗 View Live Demo]([https://araj-reward-system.vercel.app/](https://ashfaaqkt.com/Bill-Scanning-Based-Reward-Intelligence-System-study-project-bits-pop/))
+[[🔗 View Live Demo]([https://araj-reward-system.vercel.app/](https://ashfaaqkt.com/Bill-Scanning-Based-Reward-Intelligence-System-study-project-bits-pop/))](https://ashfaaqkt.com/Bill-Scanning-Based-Reward-Intelligence-System-study-project-bits-pop/)
 
 A futuristic, premium light-themed Proof of Concept for a bill scanning and reward intelligence system. This application uses an Express backend and Google's Gemini AI to perform OCR and information extraction on receipt images, then awards points based on smart categorization rules.
 
